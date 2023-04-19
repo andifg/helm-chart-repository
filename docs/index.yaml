@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  what-the-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-19T11:48:43.461831+02:00"
+    description: A Helm chart for Kubernetes
+    digest: dbf6995c4693943c84819b32f38295e54ce80df3656ec3ce4c2efacca180cc10
+    name: what-the-helm
+    type: application
+    urls:
+    - https://andifg.github.io/helm-chart-repository/what-the-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-19T11:48:43.461114+02:00"
